@@ -3,9 +3,9 @@ package notify
 import (
 	"context"
 	"fmt"
-	"github.com/fs714/goiftop/accounting"
-	"github.com/fs714/goiftop/utils/config"
-	"github.com/fs714/goiftop/utils/log"
+	"github.com/grantbarry29/goiftop/accounting"
+	"github.com/grantbarry29/goiftop/utils/config"
+	"github.com/grantbarry29/goiftop/utils/log"
 	"github.com/olekukonko/tablewriter"
 	"strconv"
 	"strings"

@@ -1,4 +1,4 @@
-module github.com/fs714/goiftop
+module github.com/grantbarry29/goiftop
 
 go 1.23.0
 

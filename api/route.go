@@ -1,8 +1,8 @@
 package api
 
 import (
-	"github.com/fs714/goiftop/api/v1"
-	"github.com/fs714/goiftop/utils/config"
+	"github.com/grantbarry29/goiftop/api/v1"
+	"github.com/grantbarry29/goiftop/utils/config"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-contrib/gzip"
 	"github.com/gin-contrib/pprof"

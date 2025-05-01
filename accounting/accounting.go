@@ -2,7 +2,7 @@ package accounting
 
 import (
 	"context"
-	"github.com/fs714/goiftop/utils/log"
+	"github.com/grantbarry29/goiftop/utils/log"
 	"time"
 )
 

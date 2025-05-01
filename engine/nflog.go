@@ -5,8 +5,8 @@
 package engine
 
 import (
-	"github.com/fs714/goiftop/accounting"
-	"github.com/fs714/goiftop/engine/driver"
+	"github.com/grantbarry29/goiftop/accounting"
+	"github.com/grantbarry29/goiftop/engine/driver"
 	"github.com/google/gopacket/layers"
 	"github.com/google/gopacket/pcap"
 )

@@ -3,8 +3,8 @@ package engine
 import (
 	"errors"
 	"fmt"
-	"github.com/fs714/goiftop/accounting"
-	"github.com/fs714/goiftop/utils/log"
+	"github.com/grantbarry29/goiftop/accounting"
+	"github.com/grantbarry29/goiftop/utils/log"
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/afpacket"
 	"github.com/google/gopacket/layers"

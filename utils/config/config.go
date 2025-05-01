@@ -2,7 +2,7 @@ package config
 
 import (
 	"errors"
-	"github.com/fs714/goiftop/utils/log"
+	"github.com/grantbarry29/goiftop/utils/log"
 	"github.com/google/gopacket/pcap"
 	"strconv"
 	"strings"
